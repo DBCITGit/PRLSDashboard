@@ -271,8 +271,7 @@ class _EmployeesTabState extends State<EmployeesTab> {
                       children: [
                         Container(
                           width: 55.h,
-                          child: Expanded(
-                              child: GroupedListView<dynamic, String>(
+                          child: GroupedListView<dynamic, String>(
                             elements: widget.employees,
                             groupBy: (element) => element.crewID,
                             //key: _employeeListViewKey,
@@ -407,7 +406,7 @@ class _EmployeesTabState extends State<EmployeesTab> {
                                 ),
                               ));
                             },
-                          )),
+                          ),
 
                           // child: ListView.builder(
                           //     addAutomaticKeepAlives: true,
