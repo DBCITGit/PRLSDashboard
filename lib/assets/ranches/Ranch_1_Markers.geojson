@@ -1,0 +1,649 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010102",
+          "Text": "2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62221260566306, -121.62659402936697
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010103",
+          "Text": "3"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62130604280786, -121.6255694255233
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010104",
+          "Text": "4"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62010454132551, -121.62347797304392
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010105",
+          "Text": "5"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61926630467812, -121.62137378007174
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010106",
+          "Text": "6"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.618219774286466, -121.61922466009855
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010107",
+          "Text": "7"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61707366055049, -121.61736454814672
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010108",
+          "Text": "8"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.615933988415776, -121.61529086530207
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010109",
+          "Text": "9"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6309386360528, -121.62977512925863
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010110",
+          "Text": "10"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62909261007676, -121.63075916469097
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010111",
+          "Text": "11"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62745614547051, -121.63147933781146
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010112",
+          "Text": "12"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.624251727674455, -121.63175292313099
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010113",
+          "Text": "13"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62480683956688, -121.63337733596565
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010114",
+          "Text": "14"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62541065038705, -121.63525588810444
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010115",
+          "Text": "15"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62753686634143, -121.63811981678009
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010116",
+          "Text": "16"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62564905210892, -121.63908641785383
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010117",
+          "Text": "17"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62382738593126, -121.64001245051621
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010118",
+          "Text": "18"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.622146679071044, -121.64104510098697
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010119",
+          "Text": "19"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62034941772705, -121.63678240031005
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010120",
+          "Text": "20"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.62216659159866, -121.63541447371244
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010121",
+          "Text": "21"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61971838849658, -121.62896275520326
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010122",
+          "Text": "22"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61825960136518, -121.62683911621569
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010123",
+          "Text": "23"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61645982742777, -121.62855003029108
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010124",
+          "Text": "24"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61781692761058, -121.63107868283988
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010125",
+          "Text": "25"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.6190152355554, -121.63350809365512
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010126",
+          "Text": "26"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61351868895705, -121.63875047117472
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010127",
+          "Text": "27"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61255927603294, -121.63756962865592
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010128",
+          "Text": "28"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.610419997895484, -121.63638073951007
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010129",
+          "Text": "29"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.60875729993051, -121.63491625338794
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010130",
+          "Text": "30"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.60762450249297, -121.63325730711222
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010132",
+          "Text": "32"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.611588009668665, -121.63361269980668
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010133",
+          "Text": "33"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61397753439678, -121.63214787840843
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010134",
+          "Text": "34"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.610774709332055, -121.63119971752165
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010135",
+          "Text": "35"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.61451980275991, -121.62972383201122
+        ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": null,
+          "description": null,
+          "Layer": "RanchBlockMarker",
+          "SubClasses": "AcDbEntity:AcDbText:AcDbText",
+          "ExtendedEntity": null,
+          "Linetype": null,
+          "EntityHandle": "010136",
+          "Text": "36"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.60985966891809, -121.63862977176905
+        ]
+        }
+    }]}
