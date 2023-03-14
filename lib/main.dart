@@ -560,10 +560,10 @@ class _DisplayTabState extends State<_DisplayTab> {
 
   // MapTab Futures
   Future<List<PositionEntry>> getEmployeesPosition(
-      String date, String employee) async {
+      String date, String employeeID) async {
     List<PositionEntry> employeesPositionList = [];
-    employeesPositionList =
-        await GetEmployeePositionWS().getEmployeePositionByDate(date, employee);
+    employeesPositionList = await GetEmployeePositionWS()
+        .getEmployeePositionByDate(date, employeeID);
     return employeesPositionList;
   }
 
@@ -744,7 +744,7 @@ class _DisplayTabState extends State<_DisplayTab> {
         builder: (context, child) {
           final pageTitle = _getTitleByIndex(widget.controller.selectedIndex);
           switch (widget.controller.selectedIndex) {
-            case 0:
+            case 0: // Home Tab
               return Stack(
                 children: [
                   FutureBuilder(
@@ -781,7 +781,7 @@ class _DisplayTabState extends State<_DisplayTab> {
                   ),
                 ],
               );
-            case 1:
+            case 1: // Map Tab
               return Stack(
                 children: [
                   FutureBuilder(
@@ -812,7 +812,7 @@ class _DisplayTabState extends State<_DisplayTab> {
                   ),
                 ],
               );
-            case 2:
+            case 2: // Drag and Drop Tab
               return Stack(
                 children: [
                   FutureBuilder(
@@ -854,7 +854,7 @@ class _DisplayTabState extends State<_DisplayTab> {
                   ),
                 ],
               );
-            case 3:
+            case 3: // Employees Tab
               return Stack(
                 children: [
                   FutureBuilder(
@@ -862,6 +862,11 @@ class _DisplayTabState extends State<_DisplayTab> {
                         getEmployees(),
                         generateAttendanceList(getEmployees(), todayDate),
                         getWorkOrders(),
+                        getPresentEmployeesPosition(
+                          todayDate,
+                          getPresentEmployees(),
+                        ),
+                        iterateAssignedWorkOrders(),
                       ]),
                       builder:
                           (context, AsyncSnapshot<List<dynamic>> snapshot) {
@@ -876,6 +881,8 @@ class _DisplayTabState extends State<_DisplayTab> {
                           employees: snapshot.data[0],
                           attendance: snapshot.data[1],
                           workOrders: snapshot.data[2],
+                          presentEmployeesPosition: snapshot.data[3],
+                          assignedWorkOrders: snapshot.data[4],
                           employeesTime: allEmployeesTimeByDate,
                           selectedIndex: selectedIndex,
                         );
@@ -952,13 +959,3 @@ String _getTitleByIndex(int index) {
       return 'Not found page';
   }
 }
-
-// const primaryColor = Color(0xFF15202B);
-// const canvasColor = Color(0xFF15202B);
-// const scaffoldBackgroundColor = Color.fromARGB(255, 13, 20, 27);
-// const accentCanvasColor = Color.fromARGB(255, 11, 107, 185);
-// const white = Colors.white;
-// final actionColor = Colors.white.withOpacity(0.6);
-// final divider = Divider(color: white.withOpacity(0.3), height: 1);
-
-

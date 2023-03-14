@@ -2525,7 +2525,7 @@ class _DragAndDropTabState extends State<DragAndDropTab> {
                                                                             .start,
                                                                     style: TextStyle(
                                                                         color: Colors
-                                                                            .white)),
+                                                                            .black)),
                                                               ],
                                                             ),
                                                             Column(
@@ -2537,7 +2537,7 @@ class _DragAndDropTabState extends State<DragAndDropTab> {
                                                                             .end,
                                                                     style: TextStyle(
                                                                         color: Colors
-                                                                            .white)),
+                                                                            .black)),
                                                               ],
                                                             )
                                                           ],
